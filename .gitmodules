@@ -1,0 +1,15 @@
+[submodule "TDBadgedCell"]
+	path = TDBadgedCell
+	url = https://github.com/tmdvs/TDBadgedCell.git
+[submodule "SVProgressHUD"]
+	path = SVProgressHUD
+	url = https://github.com/samvermette/SVProgressHUD.git
+[submodule "YIFullScreenScroll"]
+	path = YIFullScreenScroll
+	url = https://github.com/inamiy/YIFullScreenScroll.git
+[submodule "jrswizzle"]
+	path = jrswizzle
+	url = https://github.com/rentzsch/jrswizzle.git
+[submodule "ViewUtils"]
+	path = ViewUtils
+	url = https://github.com/nicklockwood/ViewUtils.git

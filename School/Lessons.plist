@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Monday</key>
+	<array>
+		<dict>
+			<key>subject</key>
+			<string>Computing</string>
+			<key>teacher</key>
+			<string>Mr Davies</string>
+			<key>room</key>
+			<string>K2</string>
+			<key>period</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>Computing</string>
+			<key>teacher</key>
+			<string>Mr Davies</string>
+			<key>room</key>
+			<string>K2</string>
+			<key>period</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>Computing</string>
+			<key>teacher</key>
+			<string>Mr Enemwue</string>
+			<key>room</key>
+			<string>K2</string>
+			<key>period</key>
+			<string>3</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>Politics</string>
+			<key>teacher</key>
+			<string>Ms O&apos;Connell</string>
+			<key>room</key>
+			<string>19</string>
+			<key>period</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>Maths</string>
+			<key>teacher</key>
+			<string>Mr Cork</string>
+			<key>room</key>
+			<string>12</string>
+			<key>period</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>Maths</string>
+			<key>teacher</key>
+			<string>Mr Cork</string>
+			<key>room</key>
+			<string>12</string>
+			<key>period</key>
+			<string>6</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>French</string>
+			<key>teacher</key>
+			<string>Mrs Herran</string>
+			<key>room</key>
+			<string>B3</string>
+			<key>period</key>
+			<string>7</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>French</string>
+			<key>teacher</key>
+			<string>Mrs Herran</string>
+			<key>room</key>
+			<string>B3</string>
+			<key>period</key>
+			<string>8</string>
+		</dict>
+		<dict>
+			<key>subject</key>
+			<string>French</string>
+			<key>teacher</key>
+			<string>Mr Button</string>
+			<key>room</key>
+			<string>B11</string>
+			<key>period</key>
+			<string>9</string>
+		</dict>
+	</array>
+	<key>Tuesday</key>
+	<array>
+			<dict>
+				<key>subject</key>
+				<string>Maths</string>
+				<key>teacher</key>
+				<string>Mr McAteer</string>
+				<key>room</key>
+				<string>24</string>
+				<key>period</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Maths</string>
+				<key>teacher</key>
+				<string>Mr McAteer</string>
+				<key>room</key>
+				<string>24</string>
+				<key>period</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>French Oral</string>
+				<key>teacher</key>
+				<string>Mrs Bailly</string>
+				<key>room</key>
+				<string>B13</string>
+				<key>period</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Computing</string>
+				<key>teacher</key>
+				<string>Mr Davis</string>
+				<key>room</key>
+				<string>K2</string>
+				<key>period</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms Heaton</string>
+				<key>room</key>
+				<string>18</string>
+				<key>period</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms Heaton</string>
+				<key>room</key>
+				<string>18</string>
+				<key>period</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>T7</string>
+				<key>teacher</key>
+				<string>Mr Cloke</string>
+				<key>room</key>
+				<string>BC2</string>
+				<key>period</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>French</string>
+				<key>teacher</key>
+				<string>Mr Button</string>
+				<key>room</key>
+				<string>B11</string>
+				<key>period</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>French</string>
+				<key>teacher</key>
+				<string>Mr Button</string>
+				<key>room</key>
+				<string>B11</string>
+				<key>period</key>
+				<string>9</string>
+			</dict>
+	</array>
+	<key>Wednesday</key>
+	<array>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms Heaton</string>
+				<key>room</key>
+				<string>18</string>
+				<key>period</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms Heaton</string>
+				<key>room</key>
+				<string>18</string>
+				<key>period</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>French</string>
+				<key>teacher</key>
+				<string>Mr Button</string>
+				<key>room</key>
+				<string>B11</string>
+				<key>period</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Free</string>
+				<key>teacher</key>
+				<string></string>
+				<key>room</key>
+				<string></string>
+				<key>period</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Computing</string>
+				<key>teacher</key>
+				<string>Mr Enemwue</string>
+				<key>room</key>
+				<string>K2</string>
+				<key>period</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Computing</string>
+				<key>teacher</key>
+				<string>Mr Enemwue</string>
+				<key>room</key>
+				<string>K2</string>
+				<key>period</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Games</string>
+				<key>teacher</key>
+				<string>Dr Welch</string>
+				<key>room</key>
+				<string>Dance Studio</string>
+				<key>period</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Games</string>
+				<key>teacher</key>
+				<string>Dr Welch</string>
+				<key>room</key>
+				<string>Dance Studio</string>
+				<key>period</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Games</string>
+				<key>teacher</key>
+				<string>Dr Welch</string>
+				<key>room</key>
+				<string>Dance Studio</string>
+				<key>period</key>
+				<string>9</string>
+			</dict>
+	</array>
+	<key>Thursday</key>
+	<array>
+			<dict>
+				<key>subject</key>
+				<string>Maths</string>
+				<key>teacher</key>
+				<string>Mr McAteer</string>
+				<key>room</key>
+				<string>15</string>
+				<key>period</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Maths</string>
+				<key>teacher</key>
+				<string>Mr McAteer</string>
+				<key>room</key>
+				<string>15</string>
+				<key>period</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Free</string>
+				<key>teacher</key>
+				<string></string>
+				<key>room</key>
+				<string></string>
+				<key>period</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms O&apos;Connell</string>
+				<key>room</key>
+				<string>19</string>
+				<key>period</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>French</string>
+				<key>teacher</key>
+				<string>Mrs Herran</string>
+				<key>room</key>
+				<string>B3</string>
+				<key>period</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Free</string>
+				<key>teacher</key>
+				<string></string>
+				<key>room</key>
+				<string></string>
+				<key>period</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Free</string>
+				<key>teacher</key>
+				<string></string>
+				<key>room</key>
+				<string></string>
+				<key>period</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Computing</string>
+				<key>teacher</key>
+				<string>Mr Enemwue</string>
+				<key>room</key>
+				<string>K2</string>
+				<key>period</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Computing</string>
+				<key>teacher</key>
+				<string>Mr Enemwue</string>
+				<key>room</key>
+				<string>K2</string>
+				<key>period</key>
+				<string>9</string>
+			</dict>
+	</array>
+	<key>Friday</key>
+	<array>
+			<dict>
+				<key>subject</key>
+				<string>Maths</string>
+				<key>teacher</key>
+				<string>Mr Cork</string>
+				<key>room</key>
+				<string>12</string>
+				<key>period</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Maths</string>
+				<key>teacher</key>
+				<string>Mr Cork</string>
+				<key>room</key>
+				<string>12</string>
+				<key>period</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Free</string>
+				<key>teacher</key>
+				<string></string>
+				<key>room</key>
+				<string></string>
+				<key>period</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>French</string>
+				<key>teacher</key>
+				<string>Mrs Herran</string>
+				<key>room</key>
+				<string>B3</string>
+				<key>period</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms O&apos;Connell</string>
+				<key>room</key>
+				<string>19</string>
+				<key>period</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Politics</string>
+				<key>teacher</key>
+				<string>Ms O&apos;Connell</string>
+				<key>room</key>
+				<string></string>
+				<key>period</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Activities</string>
+				<key>teacher</key>
+				<string>Mr Youlden</string>
+				<key>room</key>
+				<string>Sports Hall</string>
+				<key>period</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Activities</string>
+				<key>teacher</key>
+				<string>Mr Youlden</string>
+				<key>room</key>
+				<string>Sports Hall</string>
+				<key>period</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>subject</key>
+				<string>Activities</string>
+				<key>teacher</key>
+				<string>Mr Youlden</string>
+				<key>room</key>
+				<string>Sports Hall</string>
+				<key>period</key>
+				<string>7</string>
+			</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3400" systemVersion="13A598" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Homework" representedClassName="Homework" syncable="YES">
+        <attribute name="completed" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="detail" attributeType="String" syncable="YES"/>
+        <attribute name="dueDate" attributeType="Date" syncable="YES"/>
+        <attribute name="setDate" attributeType="Date" syncable="YES"/>
+        <relationship name="subject" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Subject" syncable="YES"/>
+    </entity>
+    <entity name="Lesson" representedClassName="Lesson" syncable="YES">
+        <attribute name="classroom" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="day" attributeType="String" syncable="YES"/>
+        <attribute name="period" optional="YES" attributeType="Integer 16" minValueString="1" maxValueString="9" defaultValueString="1" syncable="YES"/>
+        <relationship name="subject" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Subject" syncable="YES"/>
+        <relationship name="teacher" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Teacher" syncable="YES"/>
+    </entity>
+    <entity name="Subject" representedClassName="Subject" syncable="YES">
+        <attribute name="name" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="teacher" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Teacher" syncable="YES"/>
+    </entity>
+    <entity name="Teacher" representedClassName="Teacher" syncable="YES">
+        <attribute name="surname" attributeType="String" syncable="YES"/>
+        <attribute name="title" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Homework" positionX="457" positionY="288" width="128" height="118"/>
+        <element name="Subject" positionX="250" positionY="-64" width="128" height="73"/>
+        <element name="Lesson" positionX="-56" positionY="317" width="128" height="118"/>
+        <element name="Teacher" positionX="-234" positionY="-37" width="128" height="73"/>
+    </elements>
+</model>
